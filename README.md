@@ -1,4 +1,4 @@
-# Concejo de Indias 1379
+# Consejo de Indias 1379
 
 ## 1. Tabla de contenido
 
